@@ -1,0 +1,15 @@
+E:\ROGERIO RODRIGUES\Documents\DESENVOLVIMENTO WEB\PROJETOS-GITHUB\software-csharp-api\TaskFlow.Application\bin\Debug\net10.0\TaskFlow.Application.deps.json
+E:\ROGERIO RODRIGUES\Documents\DESENVOLVIMENTO WEB\PROJETOS-GITHUB\software-csharp-api\TaskFlow.Application\bin\Debug\net10.0\TaskFlow.Application.dll
+E:\ROGERIO RODRIGUES\Documents\DESENVOLVIMENTO WEB\PROJETOS-GITHUB\software-csharp-api\TaskFlow.Application\bin\Debug\net10.0\TaskFlow.Application.pdb
+E:\ROGERIO RODRIGUES\Documents\DESENVOLVIMENTO WEB\PROJETOS-GITHUB\software-csharp-api\TaskFlow.Application\bin\Debug\net10.0\TaskFlow.Domain.dll
+E:\ROGERIO RODRIGUES\Documents\DESENVOLVIMENTO WEB\PROJETOS-GITHUB\software-csharp-api\TaskFlow.Application\bin\Debug\net10.0\TaskFlow.Domain.pdb
+E:\ROGERIO RODRIGUES\Documents\DESENVOLVIMENTO WEB\PROJETOS-GITHUB\software-csharp-api\TaskFlow.Application\obj\Debug\net10.0\TaskFlow.Application.csproj.AssemblyReference.cache
+E:\ROGERIO RODRIGUES\Documents\DESENVOLVIMENTO WEB\PROJETOS-GITHUB\software-csharp-api\TaskFlow.Application\obj\Debug\net10.0\TaskFlow.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\ROGERIO RODRIGUES\Documents\DESENVOLVIMENTO WEB\PROJETOS-GITHUB\software-csharp-api\TaskFlow.Application\obj\Debug\net10.0\TaskFlow.Application.AssemblyInfoInputs.cache
+E:\ROGERIO RODRIGUES\Documents\DESENVOLVIMENTO WEB\PROJETOS-GITHUB\software-csharp-api\TaskFlow.Application\obj\Debug\net10.0\TaskFlow.Application.AssemblyInfo.cs
+E:\ROGERIO RODRIGUES\Documents\DESENVOLVIMENTO WEB\PROJETOS-GITHUB\software-csharp-api\TaskFlow.Application\obj\Debug\net10.0\TaskFlow.Application.csproj.CoreCompileInputs.cache
+E:\ROGERIO RODRIGUES\Documents\DESENVOLVIMENTO WEB\PROJETOS-GITHUB\software-csharp-api\TaskFlow.Application\obj\Debug\net10.0\TaskFlow.7EAD9043.Up2Date
+E:\ROGERIO RODRIGUES\Documents\DESENVOLVIMENTO WEB\PROJETOS-GITHUB\software-csharp-api\TaskFlow.Application\obj\Debug\net10.0\TaskFlow.Application.dll
+E:\ROGERIO RODRIGUES\Documents\DESENVOLVIMENTO WEB\PROJETOS-GITHUB\software-csharp-api\TaskFlow.Application\obj\Debug\net10.0\refint\TaskFlow.Application.dll
+E:\ROGERIO RODRIGUES\Documents\DESENVOLVIMENTO WEB\PROJETOS-GITHUB\software-csharp-api\TaskFlow.Application\obj\Debug\net10.0\TaskFlow.Application.pdb
+E:\ROGERIO RODRIGUES\Documents\DESENVOLVIMENTO WEB\PROJETOS-GITHUB\software-csharp-api\TaskFlow.Application\obj\Debug\net10.0\ref\TaskFlow.Application.dll

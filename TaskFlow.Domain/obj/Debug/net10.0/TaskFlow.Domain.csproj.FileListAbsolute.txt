@@ -1,0 +1,11 @@
+E:\ROGERIO RODRIGUES\Documents\DESENVOLVIMENTO WEB\PROJETOS-GITHUB\software-csharp-api\TaskFlow.Domain\bin\Debug\net10.0\TaskFlow.Domain.deps.json
+E:\ROGERIO RODRIGUES\Documents\DESENVOLVIMENTO WEB\PROJETOS-GITHUB\software-csharp-api\TaskFlow.Domain\bin\Debug\net10.0\TaskFlow.Domain.dll
+E:\ROGERIO RODRIGUES\Documents\DESENVOLVIMENTO WEB\PROJETOS-GITHUB\software-csharp-api\TaskFlow.Domain\bin\Debug\net10.0\TaskFlow.Domain.pdb
+E:\ROGERIO RODRIGUES\Documents\DESENVOLVIMENTO WEB\PROJETOS-GITHUB\software-csharp-api\TaskFlow.Domain\obj\Debug\net10.0\TaskFlow.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\ROGERIO RODRIGUES\Documents\DESENVOLVIMENTO WEB\PROJETOS-GITHUB\software-csharp-api\TaskFlow.Domain\obj\Debug\net10.0\TaskFlow.Domain.AssemblyInfoInputs.cache
+E:\ROGERIO RODRIGUES\Documents\DESENVOLVIMENTO WEB\PROJETOS-GITHUB\software-csharp-api\TaskFlow.Domain\obj\Debug\net10.0\TaskFlow.Domain.AssemblyInfo.cs
+E:\ROGERIO RODRIGUES\Documents\DESENVOLVIMENTO WEB\PROJETOS-GITHUB\software-csharp-api\TaskFlow.Domain\obj\Debug\net10.0\TaskFlow.Domain.csproj.CoreCompileInputs.cache
+E:\ROGERIO RODRIGUES\Documents\DESENVOLVIMENTO WEB\PROJETOS-GITHUB\software-csharp-api\TaskFlow.Domain\obj\Debug\net10.0\TaskFlow.Domain.dll
+E:\ROGERIO RODRIGUES\Documents\DESENVOLVIMENTO WEB\PROJETOS-GITHUB\software-csharp-api\TaskFlow.Domain\obj\Debug\net10.0\refint\TaskFlow.Domain.dll
+E:\ROGERIO RODRIGUES\Documents\DESENVOLVIMENTO WEB\PROJETOS-GITHUB\software-csharp-api\TaskFlow.Domain\obj\Debug\net10.0\TaskFlow.Domain.pdb
+E:\ROGERIO RODRIGUES\Documents\DESENVOLVIMENTO WEB\PROJETOS-GITHUB\software-csharp-api\TaskFlow.Domain\obj\Debug\net10.0\ref\TaskFlow.Domain.dll
