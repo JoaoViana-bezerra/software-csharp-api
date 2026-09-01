@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Correções — TaskFlow Etapa 05
 
 Estes arquivos corrigem os erros mostrados em:
@@ -89,3 +90,7 @@ Assim conseguimos primeiro:
 - testar os endpoints.
 
 Depois podemos adicionar o botão `Authorize` do Swagger usando a API compatível com as versões exatas instaladas.
+=======
+# software-csharp-api
+Backend em C#/.NET com API REST, JWT, PostgreSQL, Entity Framework Core e arquitetura modular para gerenciamento de tarefas.
+>>>>>>> 3c03b78dbd5e98c056db15f84b97a1ff52d0d49e
